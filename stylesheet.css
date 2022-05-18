@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+h3{
+    background-color: orange;
+    display: flex;
+    justify-content: center;
+     align-items: center;
+     padding:14px;
+     padding-left: 20%;
+     padding-right: 20%;
+     width: 60%;
+}
+h2 {
+    background-color: #696969;
+    color: white;
+    padding:40px;
+    align-items: center;
+    font-family: Georgia;
+    font-size: 14px;
+    box-shadow: #696969 5px;    
+    
+}nav, a {
+    color: black;
+    display: flex;
+    font-size: 20px;
+    justify-content: flex-end; 
+    padding: 10px 10 px;
+    margin-right: 55px;
+    text-decoration: none;
+    text-align: center;
+    align-items: baseline;
+
+}
+img {
+    border-radius: 50%;
+}
